@@ -9,6 +9,7 @@
 echo "1";
 echo "2";
 echo "3";
+echo "5";
 /** Make sure that the WordPress bootstrap has run before continuing. */
 require(dirname(__FILE__) . '/wp-load.php');
 
